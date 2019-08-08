@@ -1,0 +1,7 @@
+git checkout=> Move de um branch a outro.
+git init => inicia o repositorio
+git add => adiciona um arquivo ao commit.
+git add . => adiciona todos os arquivos menos os precedidos no gitignore no commit
+git branch ... => cria um novo ramo
+git branch => ve os ramos criados.
+git merge ... => adiciona as mudanças do ramo seguinte ao ramo principal
